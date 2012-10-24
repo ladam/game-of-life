@@ -11,7 +11,7 @@ public enum Cell {
 
     @Override
     public String toString() {
-        return symbo;
+        return symbol;
 	//most commentelek
     }
 
